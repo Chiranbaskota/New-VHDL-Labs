@@ -32,3 +32,6 @@ The testbench includes various test cases to verify the behavior of the up count
  
 ### Simulation Duration
  Each test case is simulated for a duration to allow  sufficient time for the computation to finish and the result to stabilize.
+
+ ![UpC_t_ff](https://github.com/Chiranbaskota/New-VHDL-Labs/assets/97309357/04859e51-5abc-4861-a73a-7e3bbb47c161)
+
