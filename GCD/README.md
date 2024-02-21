@@ -31,6 +31,7 @@ To run the testbench:
 
 ## Test Cases
 
+
 The testbench includes various test cases to verify the behavior of the GCD calculator:
 
 1. **Test Case 1**: Inputs `NUM1 = 12`, `NUM2 = 18`, `GO = '1'`.
@@ -40,3 +41,5 @@ The testbench includes various test cases to verify the behavior of the GCD calc
 ## Simulation Duration
 
 Each test case is simulated for a duration to allow sufficient time for the computation to finish and the result to stabilize.
+# FSM
+![gcdState](https://github.com/Chiranbaskota/New-VHDL-Labs/assets/97309357/44433778-8c35-4d8f-80a4-6c36a1c0b394)
